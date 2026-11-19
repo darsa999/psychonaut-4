@@ -1,0 +1,248 @@
+// UI copy in English, Georgian and Russian. Release titles stay as the band wrote them.
+export const dictionary = {
+  en: {
+    nav_releases: 'Releases',
+    nav_about: 'About',
+    skip: 'Skip to content',
+    theme_dark: 'Switch to dark',
+    theme_light: 'Switch to light',
+    lang_label: 'Language',
+    menu_open: 'Open menu',
+    menu_close: 'Close menu',
+
+    notice_heading: 'With sorrow we announce',
+    notice_body: 'the new album by Psychonaut 4. Six songs, all titled in Georgian.',
+    released_on: 'Released',
+    listen: 'Listen to the album',
+    all_releases: 'All releases',
+
+    since: 'Tbilisi, since 2010',
+    intro:
+      'Raw black metal and depressive rock from Tbilisi. Songs about despair, addiction and the long hangover of post-Soviet life.',
+
+    releases_title: 'Releases',
+    releases_lead: 'Full-length albums and compilations, newest first. Everything streams and sells on Bandcamp.',
+    more_title: 'Singles, splits and demos',
+    more_lead: 'Earlier and shorter releases are on Bandcamp.',
+    bundle: 'All {n} releases are also sold together as a digital discography for {p}.',
+    get_bundle: 'Get the discography',
+
+    type_album: 'Album',
+    type_compilation: 'Compilation',
+    tracks: 'Tracks',
+    tracks_in_player: 'The full tracklist is in the player.',
+    label: 'Label',
+    format: 'Format',
+    buy: 'Buy on Bandcamp',
+    from: 'from',
+    back: 'Back to releases',
+    not_found: 'There is no release at this address.',
+    player_title: 'Bandcamp player',
+
+    about_title: 'About',
+    bio_1:
+      'Psychonaut 4 formed in Tbilisi in 2010. The band pairs raw black metal with depressive rock, and its songs return to existential despair, addiction and life after the Soviet Union.',
+    bio_2:
+      'Lyrics move between Georgian, Russian and English. Since the first demo the band has put out five full-length albums, a compilation of singles and splits, and a run of shorter releases.',
+    tags: 'Tagged on Bandcamp',
+    elsewhere: 'Elsewhere',
+    photo_alt: 'Psychonaut 4, band photo',
+
+    note_of_mourning: 'Fifth studio album. Every title is in Georgian.',
+    note_scrapes:
+      'Singles and split contributions in one place. Together with the albums, it covers almost everything the band has recorded.',
+    note_hant: 'The first full-length.',
+
+    footer: 'Music and artwork © Psychonaut 4. All rights reserved.',
+    footer_listen: 'Listen and buy on Bandcamp',
+
+    hero_tagline: 'Post-suicidal black metal from Tbilisi.',
+    cta_latest: 'Listen to {title}',
+    latest_album: 'Latest album',
+    music_label: 'Music',
+    discography: 'Discography',
+    bandcamp_tile: 'Full discography on Bandcamp',
+    about_heading: 'Born in Tbilisi, 2010.',
+    stat_formed: 'Formed in Tbilisi',
+    stat_albums: 'Full-length albums',
+    stat_releases: 'Releases on Bandcamp',
+    stat_languages: 'Languages: Georgian, Russian, English',
+    more_about: 'More about the band',
+    listen_short: 'Listen',
+    lineup_label: 'Line-up',
+    band_title: 'The band',
+    band_founded: 'Founded by Graf & André, July 2010',
+    role_vocals: 'Vocals',
+    role_guitar: 'Guitar',
+    role_bass: 'Bass',
+    role_drums: 'Drums',
+    care_note:
+      'These songs come from dark places. If you are in one, you don’t have to stay there alone — talk to someone you trust, or reach out to a local support line.',
+  },
+
+  ka: {
+    nav_releases: 'რელიზები',
+    nav_about: 'ბენდის შესახებ',
+    skip: 'კონტენტზე გადასვლა',
+    theme_dark: 'მუქი თემა',
+    theme_light: 'ღია თემა',
+    lang_label: 'ენა',
+    menu_open: 'მენიუს გახსნა',
+    menu_close: 'მენიუს დახურვა',
+
+    notice_heading: 'მწუხარებით გაუწყებთ',
+    notice_body: 'Psychonaut 4-ის ახალი ალბომის გამოსვლას. ექვსი სიმღერა, ყველა ქართული სათაურით.',
+    released_on: 'გამოვიდა',
+    listen: 'ალბომის მოსმენა',
+    all_releases: 'ყველა რელიზი',
+
+    since: 'თბილისი, 2010 წლიდან',
+    intro:
+      'უხეში ბლექ მეტალი და დეპრესიული როკი თბილისიდან. სიმღერები სასოწარკვეთაზე, დამოკიდებულებაზე და პოსტსაბჭოთა ცხოვრების გრძელ ნაბახუსევზე.',
+
+    releases_title: 'რელიზები',
+    releases_lead: 'სრულმეტრაჟიანი ალბომები და კრებულები, უახლესიდან. ყველაფერი ისმინება და იყიდება Bandcamp-ზე.',
+    more_title: 'სინგლები, სპლიტები და დემოები',
+    more_lead: 'ადრეული და მოკლე რელიზები Bandcamp-ზეა.',
+    bundle: 'ყველა {n} რელიზი ერთად, ციფრული დისკოგრაფიის სახით, {p} ღირს.',
+    get_bundle: 'დისკოგრაფიის შეძენა',
+
+    type_album: 'ალბომი',
+    type_compilation: 'კრებული',
+    tracks: 'ტრეკები',
+    tracks_in_player: 'სრული ტრეკლისტი პლეერშია.',
+    label: 'ლეიბლი',
+    format: 'ფორმატი',
+    buy: 'Bandcamp-ზე ყიდვა',
+    from: 'ფასი',
+    back: 'რელიზებზე დაბრუნება',
+    not_found: 'ამ მისამართზე რელიზი არ არის.',
+    player_title: 'Bandcamp პლეერი',
+
+    about_title: 'ბენდის შესახებ',
+    bio_1:
+      'Psychonaut 4 თბილისში, 2010 წელს შეიქმნა. ბენდი უხეშ ბლექ მეტალს დეპრესიულ როკთან აერთიანებს, სიმღერები კი ეგზისტენციალურ სასოწარკვეთას, დამოკიდებულებას და საბჭოთა კავშირის შემდგომ ცხოვრებას უბრუნდება.',
+    bio_2:
+      'ტექსტები ქართულ, რუსულ და ინგლისურ ენებზეა. პირველი დემოს შემდეგ ბენდმა ხუთი სრულმეტრაჟიანი ალბომი, სინგლებისა და სპლიტების კრებული და რამდენიმე მოკლე რელიზი გამოსცა.',
+    tags: 'თეგები Bandcamp-ზე',
+    elsewhere: 'სხვაგან',
+    photo_alt: 'Psychonaut 4, ბენდის ფოტო',
+
+    note_of_mourning: 'მეხუთე სტუდიური ალბომი. ყველა სათაური ქართულია.',
+    note_scrapes:
+      'სინგლები და სპლიტებში შესული ტრეკები ერთად. ალბომებთან ერთად თითქმის ყველაფერს მოიცავს, რაც ბენდს ჩაუწერია.',
+    note_hant: 'პირველი სრულმეტრაჟიანი ალბომი.',
+
+    footer: 'მუსიკა და გაფორმება © Psychonaut 4. ყველა უფლება დაცულია.',
+    footer_listen: 'მოუსმინე და იყიდე Bandcamp-ზე',
+
+    hero_tagline: 'პოსტ-სუიციდური ბლექ მეტალი თბილისიდან.',
+    cta_latest: 'მოუსმინე: {title}',
+    latest_album: 'ბოლო ალბომი',
+    music_label: 'მუსიკა',
+    discography: 'დისკოგრაფია',
+    bandcamp_tile: 'სრული დისკოგრაფია Bandcamp-ზე',
+    about_heading: 'თბილისი, 2010.',
+    stat_formed: 'შეიქმნა თბილისში',
+    stat_albums: 'სრულმეტრაჟიანი ალბომი',
+    stat_releases: 'რელიზი Bandcamp-ზე',
+    stat_languages: 'ენა: ქართული, რუსული, ინგლისური',
+    more_about: 'მეტი ბენდის შესახებ',
+    listen_short: 'მოსმენა',
+    lineup_label: 'შემადგენლობა',
+    band_title: 'ბენდი',
+    band_founded: 'დააარსეს Graf-მა და André-მ, 2010 წლის ივლისში',
+    role_vocals: 'ვოკალი',
+    role_guitar: 'გიტარა',
+    role_bass: 'ბას-გიტარა',
+    role_drums: 'დასარტყამები',
+    care_note:
+      'ეს სიმღერები ბნელი ადგილებიდან მოდის. თუ ახლა თავად ხარ ასეთ ადგილას, მარტო დარჩენა არ გიწევს — დაელაპარაკე ვინმეს, ვისაც ენდობი, ან დაუკავშირდი ადგილობრივ დახმარების ხაზს.',
+  },
+
+  ru: {
+    nav_releases: 'Релизы',
+    nav_about: 'О группе',
+    skip: 'Перейти к содержанию',
+    theme_dark: 'Тёмная тема',
+    theme_light: 'Светлая тема',
+    lang_label: 'Язык',
+    menu_open: 'Открыть меню',
+    menu_close: 'Закрыть меню',
+
+    notice_heading: 'С прискорбием сообщаем',
+    notice_body: 'о выходе нового альбома Psychonaut 4. Шесть песен, все названия на грузинском.',
+    released_on: 'Вышел',
+    listen: 'Слушать альбом',
+    all_releases: 'Все релизы',
+
+    since: 'Тбилиси, с 2010 года',
+    intro:
+      'Сырой блэк-метал и депрессивный рок из Тбилиси. Песни об отчаянии, зависимости и долгом похмелье постсоветской жизни.',
+
+    releases_title: 'Релизы',
+    releases_lead: 'Полноформатные альбомы и сборники, от новых к старым. Всё можно послушать и купить на Bandcamp.',
+    more_title: 'Синглы, сплиты и демо',
+    more_lead: 'Ранние и короткие релизы — на Bandcamp.',
+    bundle: 'Все {n} релизов можно купить вместе как цифровую дискографию за {p}.',
+    get_bundle: 'Купить дискографию',
+
+    type_album: 'Альбом',
+    type_compilation: 'Сборник',
+    tracks: 'Треки',
+    tracks_in_player: 'Полный треклист — в плеере.',
+    label: 'Лейбл',
+    format: 'Формат',
+    buy: 'Купить на Bandcamp',
+    from: 'от',
+    back: 'Ко всем релизам',
+    not_found: 'По этому адресу релиза нет.',
+    player_title: 'Плеер Bandcamp',
+
+    about_title: 'О группе',
+    bio_1:
+      'Psychonaut 4 появилась в Тбилиси в 2010 году. Группа соединяет сырой блэк-метал с депрессивным роком, а песни возвращаются к экзистенциальному отчаянию, зависимости и жизни после Советского Союза.',
+    bio_2:
+      'Тексты звучат на грузинском, русском и английском. После первого демо группа выпустила пять полноформатных альбомов, сборник синглов и сплитов и ряд коротких релизов.',
+    tags: 'Теги на Bandcamp',
+    elsewhere: 'Где ещё',
+    photo_alt: 'Psychonaut 4, фото группы',
+
+    note_of_mourning: 'Пятый студийный альбом. Все названия на грузинском.',
+    note_scrapes:
+      'Синглы и треки со сплитов в одном месте. Вместе с альбомами — почти всё, что группа записала.',
+    note_hant: 'Первый полноформатный альбом.',
+
+    footer: 'Музыка и оформление © Psychonaut 4. Все права защищены.',
+    footer_listen: 'Слушать и купить на Bandcamp',
+
+    hero_tagline: 'Пост-суицидальный блэк-метал из Тбилиси.',
+    cta_latest: 'Слушать {title}',
+    latest_album: 'Новый альбом',
+    music_label: 'Музыка',
+    discography: 'Дискография',
+    bandcamp_tile: 'Вся дискография на Bandcamp',
+    about_heading: 'Тбилиси, 2010.',
+    stat_formed: 'Год основания, Тбилиси',
+    stat_albums: 'Полноформатных альбомов',
+    stat_releases: 'Релизов на Bandcamp',
+    stat_languages: 'Языка: грузинский, русский, английский',
+    more_about: 'Подробнее о группе',
+    listen_short: 'Слушать',
+    lineup_label: 'Состав',
+    band_title: 'Группа',
+    band_founded: 'Основана Graf и André в июле 2010 года',
+    role_vocals: 'Вокал',
+    role_guitar: 'Гитара',
+    role_bass: 'Бас',
+    role_drums: 'Ударные',
+    care_note:
+      'Эти песни родом из тёмных мест. Если вы сейчас в таком месте, не оставайтесь там в одиночку — поговорите с тем, кому доверяете, или обратитесь на местную линию поддержки.',
+  },
+};
+
+export const LANGS = [
+  { id: 'en', label: 'EN', name: 'English', locale: 'en-GB' },
+  { id: 'ka', label: 'ქა', name: 'ქართული', locale: 'ka-GE' },
+  { id: 'ru', label: 'РУ', name: 'Русский', locale: 'ru-RU' },
+];
