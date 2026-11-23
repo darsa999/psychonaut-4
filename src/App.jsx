@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import Releases from './pages/Releases';
 import Release from './pages/Release';
 import About from './pages/About';
+import Tour from './pages/Tour';
 import NotFound from './pages/NotFound';
 import { usePrefs } from './i18n/PrefsContext';
 
@@ -29,6 +30,7 @@ export default function App() {
           <Route index element={<Home />} />
           <Route path="releases" element={<Releases />} />
           <Route path="releases/:slug" element={<Release />} />
+          <Route path="tour" element={<Tour />} />
           <Route path="about" element={<About />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
