@@ -9,13 +9,21 @@ export default function About() {
       <h1 className="section-title">{t('about_heading')}</h1>
       <p className="mt-5 mb-0 font-ka font-light text-lg tracking-[0.1em] text-muted" lang="ka">{band.nameKa}</p>
 
-      <figure className="mt-10 mb-0">
+      <figure className="relative mt-10 mb-0">
         <img
           src={band.photo}
           alt={t('photo_alt')}
-          className="w-full max-h-[38rem] object-cover grayscale-[40%] contrast-110 bg-wall-2 border border-rule"
+          className="block w-full max-h-[38rem] object-cover grayscale-[40%] contrast-110 bg-wall-2 border border-rule"
           loading="lazy"
         />
+        <figcaption
+          lang="en"
+          className="pointer-events-none absolute inset-x-0 top-0 px-6 pt-6 pb-16 sm:px-10 sm:pt-10 bg-gradient-to-b from-black/75 via-black/35 to-transparent"
+        >
+          <blockquote className="m-0 max-w-[30em] text-white italic font-light text-lg sm:text-2xl leading-snug tracking-[0.02em] drop-shadow-[0_2px_6px_rgba(0,0,0,0.8)]">
+            “Listen to them — the children of the night. What music they make!”
+          </blockquote>
+        </figcaption>
       </figure>
 
       <div className="mt-16 grid gap-12 md:grid-cols-[2fr_1fr] md:gap-24">
