@@ -10,6 +10,7 @@ const NAV = [
   { to: '/releases', key: 'nav_releases' },
   { to: '/discography', key: 'nav_discography' },
   { to: '/tour', key: 'nav_tour' },
+  { to: '/merch', key: 'nav_merch' },
   { to: '/about', key: 'nav_about' },
 ];
 

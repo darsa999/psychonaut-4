@@ -8,6 +8,7 @@ import Release from './pages/Release';
 import About from './pages/About';
 import Tour from './pages/Tour';
 import Discography from './pages/Discography';
+import Merch from './pages/Merch';
 import NotFound from './pages/NotFound';
 import { usePrefs } from './i18n/PrefsContext';
 
@@ -33,6 +34,7 @@ export default function App() {
           <Route path="releases/:slug" element={<Release />} />
           <Route path="discography" element={<Discography />} />
           <Route path="tour" element={<Tour />} />
+          <Route path="merch" element={<Merch />} />
           <Route path="about" element={<About />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
