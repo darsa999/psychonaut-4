@@ -1,0 +1,663 @@
+{
+  "band": "Psychonaut 4",
+  "source": "Bandcamp (psychonaut4.bandcamp.com)",
+  "lyricsPolicy": "Lyrics are not stored. lyricsUrl links to the official Bandcamp release page.",
+  "releases": [
+    {
+      "id": "40",
+      "title": "40%",
+      "type": "demo",
+      "released": "2011-06-04",
+      "url": "https://psychonaut4.bandcamp.com/album/40",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Serial Lier",
+          "duration": "06:20",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/40"
+        },
+        {
+          "n": 2,
+          "title": "Parasite",
+          "duration": "07:38",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/40"
+        },
+        {
+          "n": 3,
+          "title": "Antihuman [Drug=Друг]",
+          "duration": "09:08",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/40"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "tired-numb-still-alive",
+      "title": "Tired, Numb, Still Alive",
+      "type": "split",
+      "released": "2012-06-15",
+      "url": "https://psychonaut4.bandcamp.com/album/tired-numb-still-alive",
+      "note": "3-way split with Unjoy / Eurythmie",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Drop by Drop",
+          "duration": null,
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/tired-numb-still-alive"
+        },
+        {
+          "n": 2,
+          "title": "Nackskott (Lifelover cover)",
+          "duration": null,
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/tired-numb-still-alive"
+        }
+      ]
+    },
+    {
+      "id": "have-a-nice-trip",
+      "title": "Have a Nice Trip",
+      "type": "album",
+      "released": "2012-08-11",
+      "url": "https://psychonaut4.bandcamp.com/album/have-a-nice-trip",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Intro (Part 1)",
+          "duration": "03:31",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/have-a-nice-trip"
+        },
+        {
+          "n": 2,
+          "title": "Parasite",
+          "duration": "07:38",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/have-a-nice-trip"
+        },
+        {
+          "n": 3,
+          "title": "Lethargic Dialogue",
+          "duration": "05:45",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/have-a-nice-trip"
+        },
+        {
+          "n": 4,
+          "title": "Have a Nice Trip",
+          "duration": "09:00",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/have-a-nice-trip"
+        },
+        {
+          "n": 5,
+          "title": "Overdose Was the Best Way to Die",
+          "duration": "05:23",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/have-a-nice-trip"
+        },
+        {
+          "n": 6,
+          "title": "Intro (Part 2)",
+          "duration": "02:19",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/have-a-nice-trip"
+        },
+        {
+          "n": 7,
+          "title": "Pseudo",
+          "duration": "04:39",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/have-a-nice-trip"
+        },
+        {
+          "n": 8,
+          "title": "Drop by Drop",
+          "duration": "06:51",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/have-a-nice-trip"
+        },
+        {
+          "n": 9,
+          "title": "Hate Parade",
+          "duration": "04:45",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/have-a-nice-trip"
+        },
+        {
+          "n": 10,
+          "title": "Antihuman [Drug=Друг]",
+          "duration": "09:08",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/have-a-nice-trip"
+        },
+        {
+          "n": 11,
+          "title": "ყლე",
+          "duration": "04:39",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/have-a-nice-trip"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "the-great-depression-i",
+      "title": "The Great Depression I",
+      "type": "split",
+      "released": "2013-07-25",
+      "url": "https://psychonaut4.bandcamp.com/album/the-great-depression-i",
+      "note": "3-way split with Dodsferd & Happy Days",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "My Despair Can't Be Explained",
+          "duration": "08:11",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/the-great-depression-i"
+        },
+        {
+          "n": 2,
+          "title": "Wor(l)d of Pain and Hate",
+          "duration": "05:15",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/the-great-depression-i"
+        }
+      ]
+    },
+    {
+      "id": "free-portion-ov-madness-i",
+      "title": "Free Portion ov Madness I",
+      "type": "single",
+      "released": "2014-04-11",
+      "url": "https://psychonaut4.bandcamp.com/album/free-portion-ov-madness-i",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "I Wanna Be Your Dog (The Stooges cover)",
+          "duration": "05:08",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/free-portion-ov-madness-i"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "4-way-split-2014",
+      "title": "Psychonaut 4 / Cheerful Depression / Культура Курения / Hovert",
+      "type": "split",
+      "released": "2014-05-29",
+      "url": "https://psychonaut4.bandcamp.com/album/psychonaut-4-cheerful-depression-hovert",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "თბილისო (The City That Loves You)",
+          "duration": "05:44",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/psychonaut-4-cheerful-depression-hovert"
+        },
+        {
+          "n": 2,
+          "title": "Bad Morning! (Злого утра!)",
+          "duration": "07:31",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/psychonaut-4-cheerful-depression-hovert"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "urban-negativism",
+      "title": "Urban Negativism",
+      "type": "split",
+      "released": "2015-04-06",
+      "url": "https://psychonaut4.bandcamp.com/album/urban-negativism",
+      "note": "4-way split with Vanhelga / Ofdrykkja / In Luna",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Not a Love Song",
+          "duration": "05:54",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/urban-negativism"
+        },
+        {
+          "n": 2,
+          "title": "I Meashure Time in Millilitres",
+          "duration": "06:18",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/urban-negativism"
+        },
+        {
+          "n": 3,
+          "title": "In Good Movies Hero Always Dies",
+          "duration": "03:18",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/urban-negativism"
+        }
+      ]
+    },
+    {
+      "id": "dipsomania",
+      "title": "Dipsomania",
+      "type": "album",
+      "released": "2015-04-23",
+      "url": "https://psychonaut4.bandcamp.com/album/dipsomania",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Intro",
+          "duration": "02:07",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/dipsomania"
+        },
+        {
+          "n": 2,
+          "title": "Beware the Silence",
+          "duration": "05:10",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/dipsomania"
+        },
+        {
+          "n": 3,
+          "title": "Personal Forest",
+          "duration": "04:14",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/dipsomania"
+        },
+        {
+          "n": 4,
+          "title": "Don't Leave the Room",
+          "duration": "05:56",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/dipsomania"
+        },
+        {
+          "n": 5,
+          "title": "Pain Dealer",
+          "duration": "07:02",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/dipsomania"
+        },
+        {
+          "n": 6,
+          "title": "Alcoholism",
+          "duration": "07:40",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/dipsomania"
+        },
+        {
+          "n": 7,
+          "title": "Suicide Is Legal",
+          "duration": "06:28",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/dipsomania"
+        },
+        {
+          "n": 8,
+          "title": "We Will Never Find the Cure",
+          "duration": "05:34",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/dipsomania"
+        },
+        {
+          "n": 9,
+          "title": "How Much for the Hope?",
+          "duration": "07:29",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/dipsomania"
+        },
+        {
+          "n": 10,
+          "title": "Moldy",
+          "duration": "06:36",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/dipsomania"
+        },
+        {
+          "n": 11,
+          "title": "Eyes of a Homeless Dog",
+          "duration": "05:06",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/dipsomania"
+        },
+        {
+          "n": 12,
+          "title": "Personal Forest (S.D. Ramirez Version)",
+          "duration": "04:15",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/dipsomania"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "neurasthenia",
+      "title": "Neurasthenia",
+      "type": "album",
+      "released": "2016-10-07",
+      "url": "https://psychonaut4.bandcamp.com/album/neurasthenia",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Prologue",
+          "duration": "07:30",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/neurasthenia"
+        },
+        {
+          "n": 2,
+          "title": "Death Is a Form of Art",
+          "duration": "08:18",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/neurasthenia"
+        },
+        {
+          "n": 3,
+          "title": "Sweet Decadance",
+          "duration": "11:58",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/neurasthenia"
+        },
+        {
+          "n": 4,
+          "title": "Total Leaning to Madness",
+          "duration": "04:29",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/neurasthenia"
+        },
+        {
+          "n": 5,
+          "title": "Bad t.RIP",
+          "duration": "08:39",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/neurasthenia"
+        },
+        {
+          "n": 6,
+          "title": "Song Written in Paris",
+          "duration": "05:53",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/neurasthenia"
+        },
+        {
+          "n": 7,
+          "title": "Sleeping Pills Suck",
+          "duration": "07:09",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/neurasthenia"
+        },
+        {
+          "n": 8,
+          "title": "Hangover",
+          "duration": "05:18",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/neurasthenia"
+        },
+        {
+          "n": 9,
+          "title": "Too Late to Call an Ambulance",
+          "duration": "06:07",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/neurasthenia"
+        },
+        {
+          "n": 10,
+          "title": "Thoughts of Death",
+          "duration": "07:37",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/neurasthenia"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "hero-in",
+      "title": "Hero in (Герой Н)",
+      "type": "single",
+      "released": "2017-09-02",
+      "url": "https://psychonaut4.bandcamp.com/track/hero-in",
+      "note": "feat. Vodka Vtraiom",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Hero in (Герой Н)",
+          "duration": "05:11",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/track/hero-in"
+        }
+      ]
+    },
+    {
+      "id": "children-of-the-night",
+      "title": "Children of the Night",
+      "type": "split",
+      "released": "2018-12-17",
+      "url": "https://psychonaut4.bandcamp.com/album/children-of-the-night",
+      "note": "Split with Nocturnal Depression",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "His Right to Remain Silent",
+          "duration": "09:53",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/children-of-the-night"
+        },
+        {
+          "n": 2,
+          "title": "#питьитанцевать",
+          "duration": "06:49",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/children-of-the-night"
+        },
+        {
+          "n": 3,
+          "title": "Her Ghost Haunts These Walls (Nocturnal Depression cover)",
+          "duration": "08:47",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/children-of-the-night"
+        }
+      ]
+    },
+    {
+      "id": "tbilisian-tragedy",
+      "title": "Tbilisian Tragedy / თბილისური ტრაგედია",
+      "type": "single",
+      "released": "2020-06-03",
+      "url": null,
+      "note": "Bandcamp URL not verified — fill in manually",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "თბილისური ტრაგედია / Tbilisian Tragedy",
+          "duration": null,
+          "lyricsUrl": null
+        }
+      ]
+    },
+    {
+      "id": "sana-sana-sana",
+      "title": "Sana-sana-sana - Cura-cura-cura",
+      "type": "single",
+      "released": "2020-07-01",
+      "url": "https://psychonaut4.bandcamp.com/track/sana-sana-sana-cura-cura-cura",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Sana-sana-sana - Cura-cura-cura",
+          "duration": null,
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/track/sana-sana-sana-cura-cura-cura"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "beautyfall",
+      "title": "Beautyfall / სულდაცემა",
+      "type": "album",
+      "released": "2020-10-30",
+      "url": "https://psychonaut4.bandcamp.com/album/beautyfall-2",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "მარტო მებრძოლი ველზე / One Man's War",
+          "duration": null,
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/beautyfall-2"
+        },
+        {
+          "n": 2,
+          "title": "თბილისური ტრაგედია / Tbilisian Tragedy",
+          "duration": null,
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/beautyfall-2"
+        },
+        {
+          "n": 3,
+          "title": "... და შენ როგორ ხარ / ...And How Are You",
+          "duration": null,
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/beautyfall-2"
+        },
+        {
+          "n": 4,
+          "title": "Sana Sana Sana-Cura Cura Cura",
+          "duration": "08:24",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/beautyfall-2"
+        },
+        {
+          "n": 5,
+          "title": "#შენახვადამოხმარება / #tostoreandtouse",
+          "duration": null,
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/beautyfall-2"
+        },
+        {
+          "n": 6,
+          "title": "ის სევდა, ისევ და / And Sorrow, Again",
+          "duration": null,
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/beautyfall-2"
+        },
+        {
+          "n": 7,
+          "title": "მტ(ვ)ერი / Dust, The Enemy",
+          "duration": null,
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/beautyfall-2"
+        },
+        {
+          "n": 8,
+          "title": "Sterile Nails and Thunderbowels (Silencer cover, bonus)",
+          "duration": null,
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/beautyfall-2"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "so-much-for-suicide",
+      "title": "So Much for Suicide",
+      "type": "single",
+      "released": "2023-05-09",
+      "url": "https://psychonaut4.bandcamp.com/track/so-much-for-suicide",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "So Much for Suicide",
+          "duration": "04:33",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/track/so-much-for-suicide"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "scrapes-from-the-past",
+      "title": "Scrapes From The Past",
+      "type": "compilation",
+      "released": "2023-05-14",
+      "url": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Serial Lier",
+          "duration": "06:21",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 2,
+          "title": "Nackskott",
+          "duration": "02:54",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 3,
+          "title": "My Despair Can't Be Explained",
+          "duration": "08:13",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 4,
+          "title": "Wor(l)d of Pain and Hate",
+          "duration": "05:18",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 5,
+          "title": "I Wanna Be Your Dog",
+          "duration": "05:08",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 6,
+          "title": "თბილისო (The City That Loves You)",
+          "duration": "05:44",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 7,
+          "title": "Bad Morning! (Злого утра!)",
+          "duration": "07:31",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 8,
+          "title": "Not a Love Song",
+          "duration": "05:54",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 9,
+          "title": "I Measure Time in Milliliters",
+          "duration": "06:18",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 10,
+          "title": "In Good Movies Hero Always Dies",
+          "duration": "03:19",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 11,
+          "title": "Hero in (Герой Н)",
+          "duration": "05:11",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 12,
+          "title": "Out Of Mind (С ума)",
+          "duration": "04:42",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 13,
+          "title": "Sterile Nails and Thunderbowels",
+          "duration": "06:34",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        },
+        {
+          "n": 14,
+          "title": "The Sun Is Still Out Of Sight (ისევ არა ჩანს მზე)",
+          "duration": "04:56",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/scrapes-from-the-past"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "of-mourning",
+      "title": "...of Mourning",
+      "type": "album",
+      "released": "2024-10-25",
+      "url": "https://psychonaut4.bandcamp.com/album/of-mourning",
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Ghele",
+          "duration": "01:40",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/of-mourning"
+        },
+        {
+          "n": 2,
+          "title": "Mzeo Amodi",
+          "duration": "08:14",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/of-mourning"
+        },
+        {
+          "n": 3,
+          "title": "Fiqrebi Mtsukhrisa",
+          "duration": "07:54",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/of-mourning"
+        },
+        {
+          "n": 4,
+          "title": "Vai Me",
+          "duration": "07:53",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/of-mourning"
+        },
+        {
+          "n": 5,
+          "title": "Sizmrebshi",
+          "duration": "08:24",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/of-mourning"
+        },
+        {
+          "n": 6,
+          "title": "Dzilis Tsameba",
+          "duration": "07:21",
+          "lyricsUrl": "https://psychonaut4.bandcamp.com/album/of-mourning"
+        }
+      ],
+      "note": null
+    }
+  ]
+}
