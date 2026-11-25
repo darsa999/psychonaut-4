@@ -24,4 +24,4 @@ Content source: psychonaut4.bandcamp.com (line-up: Wikipedia). Audio plays throu
 ## Deploying
 
 The site uses real URLs (`/releases/of-mourning`), so the host must send unknown paths to `index.html`.
-`public/_redirects` already does this on Netlify; on Vercel add a rewrite, on nginx use `try_files $uri /index.html`.
+`public/_redirects` already does this on Netlify and `vercel.json` on Vercel; on nginx use `try_files $uri /index.html`.

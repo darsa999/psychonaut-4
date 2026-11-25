@@ -78,6 +78,20 @@ export const dictionary = {
     role_drums: 'Drums',
     care_note:
       'These songs come from dark places. If you are in one, you don’t have to stay there alone — talk to someone you trust, or reach out to a local support line.',
+
+    nav_tour: 'Tour',
+    tour_label: 'Live',
+    tour_title: 'Tour',
+    tour_none_title: 'No upcoming shows',
+    tour_none_lead: 'New dates will be announced soon. Follow the band to hear first.',
+    tour_past: 'Past shows',
+    tour_show: 'Show',
+    tour_hide: 'Hide',
+    tour_played: 'Played',
+    tour_tickets: 'Tickets',
+    tour_tba: 'Tickets TBA',
+    tour_doors: 'Doors',
+    tour_start: 'Start',
   },
 
   ka: {
@@ -158,6 +172,20 @@ export const dictionary = {
     role_drums: 'დასარტყამები',
     care_note:
       'ეს სიმღერები ბნელი ადგილებიდან მოდის. თუ ახლა თავად ხარ ასეთ ადგილას, მარტო დარჩენა არ გიწევს — დაელაპარაკე ვინმეს, ვისაც ენდობი, ან დაუკავშირდი ადგილობრივ დახმარების ხაზს.',
+
+    nav_tour: 'ტური',
+    tour_label: 'ლაივი',
+    tour_title: 'ტური',
+    tour_none_title: 'ახალი კონცერტები ჯერ არ არის',
+    tour_none_lead: 'ახალი თარიღები მალე გამოცხადდება. გამოიწერე ბენდი, რომ პირველმა გაიგო.',
+    tour_past: 'წარსული კონცერტები',
+    tour_show: 'ჩვენება',
+    tour_hide: 'დამალვა',
+    tour_played: 'ჩატარდა',
+    tour_tickets: 'ბილეთები',
+    tour_tba: 'ბილეთები მალე',
+    tour_doors: 'კარები',
+    tour_start: 'დასაწყისი',
   },
 
   ru: {
@@ -238,6 +266,20 @@ export const dictionary = {
     role_drums: 'Ударные',
     care_note:
       'Эти песни родом из тёмных мест. Если вы сейчас в таком месте, не оставайтесь там в одиночку — поговорите с тем, кому доверяете, или обратитесь на местную линию поддержки.',
+
+    nav_tour: 'Тур',
+    tour_label: 'Live',
+    tour_title: 'Тур',
+    tour_none_title: 'Предстоящих концертов нет',
+    tour_none_lead: 'Новые даты скоро объявят. Подпишитесь на группу, чтобы узнать первыми.',
+    tour_past: 'Прошедшие концерты',
+    tour_show: 'Показать',
+    tour_hide: 'Скрыть',
+    tour_played: 'Сыграно',
+    tour_tickets: 'Билеты',
+    tour_tba: 'Билеты скоро',
+    tour_doors: 'Двери',
+    tour_start: 'Начало',
   },
 };
 
