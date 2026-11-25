@@ -8,6 +8,7 @@ import { releases } from '../data/band';
 
 const NAV = [
   { to: '/releases', key: 'nav_releases' },
+  { to: '/discography', key: 'nav_discography' },
   { to: '/tour', key: 'nav_tour' },
   { to: '/about', key: 'nav_about' },
 ];
